@@ -21,6 +21,7 @@ public class OpenMRSTests {
 	//		4. Enter the patient name and click on search.
 	//		5. Identify the details by clicking ont he patient.
 	//		6. Verify the details of the patient getting displayed.
+	//      7. Mark the testcase pass/fail.
 
 	WebDriver driver ;
 
