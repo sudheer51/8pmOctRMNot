@@ -52,7 +52,7 @@ public class OpenMRSTests {
 	{
 		 	HomePage hPage = new HomePage(driver);
 			hPage.openApp( );
-			hPage.navigateToPage("New Year Deals");
+			hPage.navigateToPage("MLK Weekend");
 			
 			DealsPage dealsPage = new DealsPage(driver);
 			int actual = dealsPage.retrieveDealCount("Great Deals on Home And Garden");
